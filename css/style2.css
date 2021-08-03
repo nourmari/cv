@@ -1,0 +1,40 @@
+.button{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #221d1d;
+  color: rgb(247, 245, 245);
+  font-size: 33px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+.img{ width: 90em;
+  height: 40em;
+}
+    
+
+.img1{ width:19em;
+ height: 25%;
+margin-left: 1em;
+
+}
+
+.href{
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  border-radius: 5px;
+  text-align: center;
+
+}
+
+ 
+} 
